@@ -7,3 +7,8 @@
 .carousel-img{
     min-height: 360px;
 }
+.course-img{
+    max-height: 220px;
+    min-height: 200px;
+    width: 100%;
+}
