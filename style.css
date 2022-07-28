@@ -1,6 +1,9 @@
 .custom-color{
     color: #0dcaf0;
 }
-.custom-bg{
-    background: #0dcaf0;
+.banner-opacity{
+    background: #0007;
+}
+.carousel-img{
+    min-height: 360px;
 }
